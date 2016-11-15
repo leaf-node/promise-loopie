@@ -1,0 +1,25 @@
+{
+  "name": "promise-loop",
+  "version": "1.0.0",
+  "description": "A memory and stack efficient pattern for infinite asynchronous looping/chaining with promises",
+  "main": "src/main.js",
+  "files": [
+      "src",
+      "README.md",
+      "COPYING"
+    ],
+  "scripts": {
+    "test": "src/main.js"
+  },
+  "keywords": [
+    "demo",
+    "pattern",
+    "promises",
+    "looping",
+    "chaining",
+    "memory",
+    "stack"
+  ],
+  "author": "Andrew Engelbrecht",
+  "license": "CC0-1.0"
+}
