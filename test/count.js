@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // Created 2016 Andrew Engelbrecht
 //
 // This program is released under CC0
