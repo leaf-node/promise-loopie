@@ -7,7 +7,7 @@
 // https://creativecommons.org/publicdomain/zero/1.0/
 //
 
-// Test and demonstrate the use of the promise-loop library
+// Test and demonstrate the use of the promise-loopie library
 
 /*global Promise */
 /*jslint unparam: true */
@@ -15,7 +15,7 @@
 
 var promiseLoop, main, addTenThousandPromises, testIfDone, maxLoops;
 
-// normally: promiseLoop = require('promise-loop');
+// normally: promiseLoop = require('promise-loopie');
 promiseLoop = require('../src/main.js');
 
 

@@ -5,8 +5,8 @@
 // https://creativecommons.org/publicdomain/zero/1.0/
 //
 
-// promise-loop - a memory and stack efficient pattern for infinite
-//                asynchronous looping/chaining with promises
+// promise-loopie - a memory and stack efficient pattern for infinite
+//                  asynchronous looping/chaining with promises
 //
 
 /*global Promise */

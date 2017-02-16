@@ -1,6 +1,6 @@
-# promise-loop
+# promise-loopie
 
-promise-loop provides a memory and stack efficient pattern for infinite
+promise-loopie provides a memory and stack efficient pattern for infinite
 asynchronous looping/chaining with promises.
 
 ## Use
