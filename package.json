@@ -2,8 +2,8 @@
   "name": "promise-loopie",
   "version": "1.0.3",
   "description": "A memory and stack efficient pattern for infinite asynchronous looping/chaining with promises",
-  "url": "https://gitlab.com/sudoman/promise-loopie/issues",
-  "repository": "gitlab:sudoman/promise-loopie",
+  "url": "https://github.com/leaf-node/promise-loopie/issues",
+  "repository": "github:leaf-node/promise-loopie",
   "main": "src/main.js",
   "files": [
       "src",
